@@ -1,0 +1,12 @@
+中,zhōng,China
+国,guó,country
+美国,měiguó,USA
+加拿大,jiānádà,Canada
+墨西哥,mòxīgē,Mexico
+德国,déguó,Germany
+法国,fǎguó,France
+英国,yīngguó,England
+印度,yìndù,India
+越南,yuènán,Vietnam
+朝鲜,cháoxiǎn,Korea
+俄国,éguó,Russia

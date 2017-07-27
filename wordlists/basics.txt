@@ -1,0 +1,31 @@
+名,míng,name
+性,xìng,surname
+叫,jiào,to be called
+(我)是,shì,am
+(你/我们/他们)是,shì,are
+(他/她/它)是,shì,is
+是,shì,to be
+你好,nǐhǎo,hello
+我,wǒ,I
+我,wǒ,me
+我的,wǒ de,my/mine
+你,nǐ,you
+你的,nǐ de,your/yours
+它,tā,it
+他,tā,he
+他,tā,him
+他的,tā de,his
+她,tā,she
+她/她的,tā/tā de,her
+我们,wǒmen,we
+我们,wǒmen,us
+我们的,wǒmen de,our
+他们,tāmen,they
+他们的,tāmen de,theirs
+她们,tāmen,they
+亓,qí,their
+好,hǎo,good
+祈,qí,please
+甚么,shénme,what
+一个,yīgè,a
+人,rén,person

@@ -1,0 +1,31 @@
+喜欢,xǐhuan,to like
+想,xiǎng,to want
+觉得,juéde,to think
+倒,dào,to go home
+看,kàn,to see
+看书,kànshū,to read
+念,niàn,to read aloud
+试,shì,to try
+笑,xiào,laugh
+唱,chàng,sing
+有,yǒu,to have
+采取,cǎiqǔ,to take
+睡,shuì,to sleep
+去教,qùjiào,to teach
+学,xué,learn
+认识,rènshì,recognize
+爱,ài,love
+拜访,bàifǎng,visit
+给,gěi,give
+去,qù,to go
+帮助,bāngzhù,to help
+找,zhǎo,to look for
+忘,wàng,to forget
+坐,zuò,to sit
+进,jìn,to enter
+回来,huílai,return
+讲,jiǎng,to talk
+打电话,dǎdiànhuà,to make a phone call
+电话,diànhuà,phone call
+见面,jiànmiàn,meet
+待,dài,wait

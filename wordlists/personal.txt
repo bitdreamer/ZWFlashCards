@@ -1,0 +1,23 @@
+个人,gèrén,personal
+骤雨,zhòuyǔ,shower
+洗澡,xǐzǎo,bathe
+肥皂,féizào,soap
+洗头,xǐ tóu,shampoo
+毛巾,máojīn,towel
+衣服,yīfu,clothes
+内衣,nèiyī,underwear
+胸罩,xiōngzhào,bra
+连衣裙,liányīqún,dress
+衬衫,chènshān,shirt
+衬衫,chènshān,blouse
+裤子,kùzi,pants
+袜子,wàzi,socks
+靸,sǎ,shoes
+上衣,shàngyī,coat
+毛线衣,máoxiàn yī,sweater
+项炼,xiàngliàn,necklace
+环,huán,ring
+眼镜,yǎnjìng,glasses
+穿,chuān,wear
+化妆,huàzhuāng,makeup
+领带,lǐngdài,necktie

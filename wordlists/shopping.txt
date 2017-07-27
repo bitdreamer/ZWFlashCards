@@ -1,0 +1,24 @@
+购物,gòuwù,shopping
+商店,shāngdiàn,store
+书记,shūji,clerk
+尺寸,chǐcun,size
+红,hóng,red
+黄,huáng,yellow
+色,sè,color
+蓝,lán,blue
+黑,hēi,black
+白,bái,white
+采买,cǎimǎi,buy
+销售,xiāoshòu,sell
+现金,xiànjīn,cash
+信用卡,xìnyòngkǎ,credit card
+中等,zhōngděng,medium
+大,dà,large
+謏,xiǎo,small
+低廉,dīlián,cheap
+高价,gāojià,expensive
+相同,xiāngtóng,same
+同,tóng,alike
+不同,bùtóng,different
+样式,yàngshì,style
+度过,dùguò,spend

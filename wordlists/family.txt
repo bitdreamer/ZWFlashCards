@@ -1,0 +1,22 @@
+家,jiā,family
+爸爸,bàbà,father
+妈妈,māmā,mama
+哥哥,gēge,older brother
+妹妹,mèimè,younger sister
+弟弟,dìdì,younger brother
+太太,tàitai,wife
+丈夫,zhàngfu,husband
+儿童,értóng,child
+儿子,érzi,son
+女儿,nǚér,daughter
+表亲,biǎoqīn,cousin
+家,jiā,home
+人,rén,man
+女人,nǚrén,woman
+大哥,dàge,oldest brother
+姐姐,jiějiě,older sister
+生日,shēngrì,birthday
+生,shēng,to be born
+一起,yīqǐ,together
+客气,kèqì,polite
+大家,dàjiā,everyone

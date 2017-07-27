@@ -1,0 +1,42 @@
+更,gèng,more
+那,nà,those
+这,zhè,these
+一些,yīxiē,some
+一,yī,one
+二,èr,two
+两,liǎng,two
+三,sān,three
+四,sì,four
+五,wǔ,five
+六,liù,six
+七,qī,seven
+八,bā,eight
+九,jiǔ,nine
+十,shí,ten
+十一,shíyī,eleven
+十二,shíèr,twelve
+十三,shísān,thirteen
+十四,shísì,fourteen
+十五,shíwǔ,fifteen
+第一,dìyī,first
+第二,dìèr,second
+第三,dìsān,third
+第四,dìsì,fourth
+第五,dìwǔ,fifth
+第六,dìliù,sixth
+第七,dìqī,seventh
+第八,dìbā,eighth
+第九,dìjiǔ,ninth
+第十,dìshí,tenth
+百,bǎi,hundred
+千,qiān,thousand
+万,wàn,ten thousand
+两,liǎng,both
+多,duō,many
+几,jǐ,how many
+多少,duōshao,how much
+也,yě,also
+不,bù,not
+没,méi,not
+那,nà,that
+这,zhè,this

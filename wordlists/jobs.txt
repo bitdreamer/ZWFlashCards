@@ -1,0 +1,12 @@
+业,yè,occupation
+农人,nóngrén,farmer
+工人,gōngrén,worker
+工程师,gōngchéngshī,engineer
+医生,yīshēng,doctor
+护士,hùshi,nurse
+律师,lǜshī,lawyer
+建筑师,jiànzhúshī,architect
+开车人,kāichērén,driver
+厨师,chúshī,chef
+老师,lǎoshī,teacher
+政治家,zhèngzhìjiā,politician

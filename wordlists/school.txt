@@ -1,0 +1,41 @@
+学校,xuéxiào,school
+学生,xuésheng,student
+纸,zhǐ,paper
+笔,bǐ,pencil
+笔,bǐ,pen
+念书,niànshū,read
+念,niàn,read aloud
+写,xiě,to write
+学习,xuéxí,to study
+学,xué,learn
+练习,liànxí,practice
+试,shì,test
+唱,chàng,sing
+歌曲,gēqǔ,song
+听,tīng,listen
+照片,zhàopiàn,picture
+书,shū,book
+同学,tóngxué,classmate
+现在,xiànzài,present
+缺席,quēxí,absent
+审问,shěnwèn,question
+问题,wèntí,problem
+会议,huìyì,meeting
+办公室,bàngōngshì,office
+面,miàn,face
+知道,zhīdào,know
+了解,liǎojiě,understand
+诉,sù,tell
+语法,yǔfǎ,grammar
+容易,róngyì,easy
+难,nán,difficult
+大写,dàxiě,capital (letter)
+小,xiǎo,small
+大,dà,big
+功课,gōngkè,classwork
+宿舍,sùshè,dormitory
+电脑,diànnǎo,computer
+脑,nǎo,brain
+字,zì,letter
+学期,xuéqī,semester
+信息,xìnxī,message

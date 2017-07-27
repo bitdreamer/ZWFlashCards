@@ -1,0 +1,14 @@
+快乐,kuàilè,happy
+愤怒,fènnù,angry
+忙,máng,busy
+很,hěn,very
+热,rè,hot
+冷,lěng,cold
+想睡,xiǎngshuì,sleepy
+累,lèi,tired
+能,néng,can
+能,néng,may
+得,děi,must
+快,kuài,fast
+慢,màn,slow
+尴尬,gāngà,embarrassed

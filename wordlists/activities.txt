@@ -1,0 +1,14 @@
+运动,yùndòng,sport
+足球,zúqiú,soccer
+篮球,lánqiú,basketball
+棒球,bàngqiú,baseball
+网球,wǎngqiú,tennis
+棋,qí,chess
+赛跑,sàipǎo,running
+电影,diànyǐng,movie
+电视,diànshì,television
+舞蹈,wǔdǎo,dance
+事件,shìjiàn,event
+游戏,yóuxì,game
+表演,biǎoyǎn,show
+音乐会,yīnyuèhuì,concert

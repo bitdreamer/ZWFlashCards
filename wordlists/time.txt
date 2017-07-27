@@ -1,0 +1,52 @@
+时间,shíjiān,time
+日期,rìqī,date
+今天,jīntiān,today
+昨天,zuótiān,yesterday
+明天,míngtiān,tomorrow
+去年,qùnián,last year
+明年,míngnián,next year
+下,xià,next
+年,nián,year
+今年,jīnnián,this year
+天,tiān,day
+小时,xiǎoshí,hour
+分钟,fēnzhōng,minute
+晚,wǎn,late
+星期一,xīngqīyī,Monday
+星期二,xīngqīèr,Tuesday
+星期三,xīngqīsān,Wednesday
+星期四,xīngqīsì,Thursday
+星期五,xīngqīwǔ,Friday
+星期六,xīngqīliù,Saturday
+星期日,xīngqīrì,Sunday
+月,yuè,month
+一月,yīyuè,January
+二月,èryuè,February
+三月,sānyuè,March
+四月,sìyuè,April
+五月,wǔyuè,May
+六月,liùyuè,June
+七月,qīyuè,July
+八月,bāyuè,August
+九月,jiǔyuè,September
+十月,shíyuè,October
+十一月,shíyīyuè,November
+十二月,shíèryuè,December
+闰年,rùnnián,leap year
+现在,xiànzài,now
+后来,hòulái,later
+上午,shàngwǔ,morning
+下午,xiàwǔ,afternoon
+晚间,wǎnjiān,evening
+早,zǎo,early
+不久,bùjiǔ,soon
+之前,zhīqián,before
+后,hòu,after
+的时候,deshíhòu,when
+直到,zhídào,until
+空儿,kòngr,free time
+平常,píngcháng,usually
+已经,yǐjīng,already
+一齐,yīqí,simultaneously
+最近,zuìjìn,recent
+最后,zuìhòu,last
